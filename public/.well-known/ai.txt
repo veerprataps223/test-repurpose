@@ -1,0 +1,7 @@
+Site: Reloop Media
+Description: Content repurposing agency turning podcasts, webinars, and blog posts into a full week of platform-native content.
+Contact: hello@reloopmedia.com
+AI-Policy: This site permits AI models and answer engines to read, summarize, and cite its public content with attribution.
+Summary: /ai/summary.json
+FAQ: /ai/faq.json
+Service: /ai/service.json

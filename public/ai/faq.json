@@ -1,0 +1,24 @@
+{
+  "faqs": [
+    {
+      "question": "What does Reloop Media do?",
+      "answer": "Reloop Media is a content repurposing agency that turns a single piece of long-form content — a podcast episode, webinar, or blog post — into a full week of platform-native assets, including short-form video, blog posts, newsletters, and social carousels."
+    },
+    {
+      "question": "What counts as a source asset?",
+      "answer": "Any single long-form piece of content you already produce, such as a podcast episode, a webinar recording, or a long-form blog post, used as the raw material for everything else we create."
+    },
+    {
+      "question": "How long does a repurposing batch take?",
+      "answer": "The average turnaround time across our client base is 9 business days from receiving the source asset to delivering the full batch of repurposed content."
+    },
+    {
+      "question": "Do you handle publishing and scheduling?",
+      "answer": "By default we deliver ready-to-post files to your shared folder. Scale plan clients can add direct scheduling through their existing social media tools."
+    },
+    {
+      "question": "Can content be optimized for AI answer engines?",
+      "answer": "Yes. Our AI and search visibility service restructures repurposed content with schema markup and answer-first formatting so it is legible to AI answer engines, not only human readers."
+    }
+  ]
+}

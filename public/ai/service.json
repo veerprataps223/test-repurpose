@@ -1,0 +1,17 @@
+{
+  "name": "Reloop Media",
+  "description": "Content repurposing agency turning long-form content into platform-native assets across video, blog, email, and social formats.",
+  "url": "https://test-repurpose.vercel.app/",
+  "capabilities": [
+    "Video to short-form social clips",
+    "Podcast to blog and show notes",
+    "Content to newsletter",
+    "Blog to carousels and graphics",
+    "Webinar to mini course",
+    "AI and search visibility formatting"
+  ],
+  "contact": {
+    "email": "hello@reloopmedia.com",
+    "phone": "+1-415-555-0142"
+  }
+}

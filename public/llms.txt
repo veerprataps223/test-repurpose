@@ -1,24 +1,29 @@
 # Reloop Media
 
-> Reloop Media is a content repurposing agency. We take one piece of long-form content you already created — a podcast episode, a webinar recording, or a blog post — and turn it into a full week of platform-native assets.
-
+> Reloop Media is a content repurposing agency. We take one piece of long-form content you already created — a podcast episode, a webinar recording, or a blog post — and turn it into a full week of platform-native assets: short-form video clips, SEO blog posts, newsletters, and social carousels.
 
 The main homepage is available at: [Reloop Media](https://test-repurpose.vercel.app/)
 
-## Main Pages
+## Services
 
-- [Services](https://test-repurpose.vercel.app/services)
-- [Pricing](https://test-repurpose.vercel.app/pricing)
-- [Blog](https://test-repurpose.vercel.app/blog)
+- [Video, podcast, newsletter, carousel and mini-course repurposing services](https://test-repurpose.vercel.app/services)
+
+## Pricing
+
+- [Starter, Growth and Scale plans for content repurposing retainers](https://test-repurpose.vercel.app/pricing)
 
 ## Case Studies
 
-- [Case Studies](https://test-repurpose.vercel.app/case-studies)
+- [Client results from repurposing campaigns across SaaS, creator and e-commerce brands](https://test-repurpose.vercel.app/case-studies)
+
+## Blog & Articles
+
+- [Notes on repurposing, distribution and AI-era content strategy](https://test-repurpose.vercel.app/blog)
 
 ## About
 
-- [About](https://test-repurpose.vercel.app/about)
+- [About Reloop Media: our story, values, and leadership team](https://test-repurpose.vercel.app/about)
 
 ## Optional
 
-- [Contact](https://test-repurpose.vercel.app/contact): Contact
+- [Contact Reloop Media to map a repurposing plan](https://test-repurpose.vercel.app/contact): Contact

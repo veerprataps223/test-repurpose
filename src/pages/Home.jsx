@@ -22,6 +22,23 @@ const steps = [
   { n: '04', title: 'We track what performs', copy: 'Monthly reporting shows which repurposed formats are driving reach, so the next batch gets sharper.' },
 ]
 
+const homeFaqs = [
+  { q: 'What does Reloop Media do?', a: 'Reloop Media is a content repurposing agency. We take one piece of long-form content you already made — a podcast episode, a webinar, or a blog post — and turn it into a full week of platform-native assets: short-form video, blog posts, newsletters, and social carousels.' },
+  { q: 'What counts as a source asset?', a: 'Any single long-form piece of content you already produce, such as a podcast episode, a webinar recording, or a long-form blog post, used as the raw material for everything else we create.' },
+  { q: 'How long does a repurposing batch take?', a: 'The average turnaround across our client base is 9 business days from receiving the source asset to delivering the full repurposed batch.' },
+  { q: 'Can repurposed content be optimized for AI answer engines?', a: 'Yes. Our AI and search visibility service restructures content with schema markup and answer-first formatting so it is legible to AI answer engines, not only human readers.' },
+]
+
+const homeFaqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: homeFaqs.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+}
+
 export default function Home() {
   return (
     <>
@@ -94,6 +111,24 @@ export default function Home() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      <section className="section">
+        <div className="container">
+          <div className="section-heading">
+            <span className="eyebrow">Questions</span>
+            <h2>Frequently asked questions</h2>
+          </div>
+          <div className="faq-list">
+            {homeFaqs.map((f) => (
+              <details key={f.q} className="faq-item">
+                <summary>{f.q}</summary>
+                <p>{f.a}</p>
+              </details>
+            ))}
+          </div>
+          <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(homeFaqSchema) }} />
         </div>
       </section>
 

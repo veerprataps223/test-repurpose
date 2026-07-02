@@ -27,9 +27,9 @@ export default function Footer() {
         <div className="footer-col">
           <h4>Services</h4>
           <Link to="/services">Video → Social Clips</Link>
-          <Link to="/services">Podcast → Blog</Link>
+          <Link to="/services">Podcast → Article</Link>
           <Link to="/services">Webinar → Course</Link>
-          <Link to="/services">Blog → Carousels</Link>
+          <Link to="/services">Articles → Carousels</Link>
         </div>
 
         <div className="footer-col">

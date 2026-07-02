@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { Head } from 'vite-react-ssg'
 import PageHero from '../components/PageHero.jsx'
 import Canonical from '../components/Canonical.jsx'
 
@@ -63,9 +64,22 @@ const faqs = [
 ]
 
 export default function Pricing() {
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  }
+
   return (
     <>
       <Canonical path="/pricing" />
+      <Head>
+        <script type="application/ld+json">{JSON.stringify(faqSchema)}</script>
+      </Head>
       <PageHero
         eyebrow="Pricing"
         title="Plans built around how much content you already create."

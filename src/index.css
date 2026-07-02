@@ -350,6 +350,21 @@ ul { margin: 0; padding: 0; list-style: none; }
   font-size: 1.05rem;
 }
 
+.cta-footnote {
+  margin: 24px 0 0;
+  font-size: 0.85rem;
+  color: #6b6a73;
+}
+
+.cta-footnote a {
+  color: var(--dark-soft);
+  text-decoration: underline;
+}
+
+.cta-footnote a:hover {
+  color: #fff;
+}
+
 /* Page hero */
 .page-hero {
   padding: 70px 0 50px;

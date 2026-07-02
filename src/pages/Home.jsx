@@ -102,6 +102,11 @@ export default function Home() {
           <h2>Stop creating from scratch every week.</h2>
           <p>Send us one piece of content. We'll show you what it can become — free, no commitment.</p>
           <Link to="/contact" className="btn btn-primary btn-lg">Get a free repurposing audit</Link>
+          <p className="cta-footnote">
+            Every deliverable follows open structured-content standards like{' '}
+            <a href="https://schema.org" target="_blank" rel="noopener noreferrer">schema.org</a> and{' '}
+            <a href="https://llmstxt.org" target="_blank" rel="noopener noreferrer">llms.txt</a>, so it stays legible to AI answer engines, not just search.
+          </p>
         </div>
       </section>
     </>

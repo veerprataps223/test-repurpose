@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Reloop Media Blog</title>
+    <link>https://test-repurpose.vercel.app/blog</link>
+    <description>Notes on repurposing, distribution, and AI-era content from Reloop Media.</description>
+    <language>en-us</language>
+    <item>
+      <title>Why one blog post should become five different assets</title>
+      <link>https://test-repurpose.vercel.app/blog</link>
+      <description>Most teams treat a blog post as a finish line. The highest-leverage teams treat it as raw material — here is the breakdown we use with every client.</description>
+      <category>Strategy</category>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The 40-second rule for short-form video hooks</title>
+      <link>https://test-repurpose.vercel.app/blog</link>
+      <description>After cutting thousands of clips, we found the first three seconds decide almost everything. Here is how our editors choose the moment to open on.</description>
+      <category>Video</category>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How AI answer engines actually read your content</title>
+      <link>https://test-repurpose.vercel.app/blog</link>
+      <description>Structuring content for AI visibility is not the same as classic SEO. We walk through the formatting choices that make repurposed content citable.</description>
+      <category>AI &amp; Search</category>
+      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Podcast to newsletter: a template that keeps subscribers opening</title>
+      <link>https://test-repurpose.vercel.app/blog</link>
+      <description>A breakdown of the newsletter structure we reuse across every podcast client, and why it consistently beats generic recap emails.</description>
+      <category>Email</category>
+      <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What we look for before taking on a new repurposing client</title>
+      <link>https://test-repurpose.vercel.app/blog</link>
+      <description>Not every piece of content is worth repurposing. Here is the checklist our strategists use during a free audit call.</description>
+      <category>Behind the Scenes</category>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carousels vs. single-image posts: what the data actually shows</title>
+      <link>https://test-repurpose.vercel.app/blog</link>
+      <description>We pulled engagement data across 40+ client accounts to settle the debate on our own team.</description>
+      <category>Social</category>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

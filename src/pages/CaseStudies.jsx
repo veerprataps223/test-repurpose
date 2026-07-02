@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import PageHero from '../components/PageHero.jsx'
+import Canonical from '../components/Canonical.jsx'
 
 const cases = [
   {
@@ -35,6 +36,7 @@ const cases = [
 export default function CaseStudies() {
   return (
     <>
+      <Canonical path="/case-studies" />
       <PageHero
         eyebrow="Case Studies"
         title="What repurposing actually moves for our clients."

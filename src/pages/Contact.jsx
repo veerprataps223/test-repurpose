@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import PageHero from '../components/PageHero.jsx'
+import Canonical from '../components/Canonical.jsx'
 
 export default function Contact() {
   const [form, setForm] = useState({ name: '', email: '', company: '', format: 'Podcast', message: '' })
@@ -17,6 +18,7 @@ export default function Contact() {
 
   return (
     <>
+      <Canonical path="/contact" />
       <PageHero
         eyebrow="Contact"
         title="Let's map your repurposing plan."

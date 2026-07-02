@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import PageHero from '../components/PageHero.jsx'
+import Canonical from '../components/Canonical.jsx'
 
 const tiers = [
   {
@@ -64,6 +65,7 @@ const faqs = [
 export default function Pricing() {
   return (
     <>
+      <Canonical path="/pricing" />
       <PageHero
         eyebrow="Pricing"
         title="Plans built around how much content you already create."

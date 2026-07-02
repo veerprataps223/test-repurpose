@@ -1,4 +1,5 @@
 import PageHero from '../components/PageHero.jsx'
+import Canonical from '../components/Canonical.jsx'
 
 const posts = [
   {
@@ -42,6 +43,7 @@ const posts = [
 export default function Blog() {
   return (
     <>
+      <Canonical path="/blog" />
       <PageHero
         eyebrow="Blog"
         title="Notes on repurposing, distribution, and AI-era content."

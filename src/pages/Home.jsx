@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import Canonical from '../components/Canonical.jsx'
 
 const stats = [
   { value: '1,200+', label: 'assets repurposed / month' },
@@ -24,6 +25,7 @@ const steps = [
 export default function Home() {
   return (
     <>
+      <Canonical path="/" />
       <section className="hero">
         <div className="container hero-grid">
           <div className="hero-copy">

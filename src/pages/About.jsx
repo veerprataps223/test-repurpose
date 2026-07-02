@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import PageHero from '../components/PageHero.jsx'
+import Canonical from '../components/Canonical.jsx'
 
 const values = [
   {
@@ -38,6 +39,7 @@ const team = [
 export default function About() {
   return (
     <>
+      <Canonical path="/about" />
       <PageHero
         eyebrow="About Reloop Media"
         title="We're the production team behind content that never gets used just once."

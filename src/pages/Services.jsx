@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import PageHero from '../components/PageHero.jsx'
+import Canonical from '../components/Canonical.jsx'
 
 const services = [
   {
@@ -43,6 +44,7 @@ const services = [
 export default function Services() {
   return (
     <>
+      <Canonical path="/services" />
       <PageHero
         eyebrow="Services"
         title="Every format your audience scrolls through, covered."

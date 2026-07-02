@@ -1,0 +1,159 @@
+# Reloop Media
+
+> Reloop Media is a content repurposing agency. We take one piece of long-form content you already created — a podcast episode, a webinar recording, or a blog post — and turn it into a full week of platform-native assets: short-form video clips, SEO blog posts, newsletters, and social carousels.
+
+This document contains the full text content of every page on reloopmedia's site, for LLMs and AI answer engines with large context windows. For a lightweight index of links only, see /llms.txt.
+
+---
+
+## Home — https://test-repurpose.vercel.app/
+
+### One piece of content. Ten places it works harder.
+
+Reloop Media takes the podcast, webinar, or blog post you already made and turns it into a week of platform-native content — without adding a single hour to your team's plate.
+
+Key stats: 1,200+ assets repurposed per month. 38 brands served. 4.6x average content output increase. 9 days average turnaround.
+
+#### Your one format becomes a whole content calendar
+
+- Podcast episode becomes: 12 short clips, 1 blog post, 6 quote graphics
+- Webinar recording becomes: Email course, LinkedIn carousel, highlight reel
+- Long-form blog becomes: Twitter/X thread, newsletter, 3 short videos
+- YouTube video becomes: Shorts, transcript SEO page, audiogram
+
+#### How it works — a repeatable system, not a one-off favor
+
+1. You create once. Send us your podcast, webinar, blog post, or long-form video — whatever your core format already is.
+2. We map the repurposing plan. Our editors identify the highest-leverage moments and match them to the platforms your audience actually lives on.
+3. You get a full content batch. Clips, carousels, blog posts, newsletters and graphics land in your shared folder, captioned and ready to post.
+4. We track what performs. Monthly reporting shows which repurposed formats are driving reach, so the next batch gets sharper.
+
+Stop creating from scratch every week. Send us one piece of content. We'll show you what it can become — free, no commitment.
+
+---
+
+## Services — https://test-repurpose.vercel.app/services
+
+### Every format your audience scrolls through, covered.
+
+Pick one service or bundle the full pipeline — we adapt to however your team already creates.
+
+**Video → Social Clips**: Long-form video or podcast recordings cut into scroll-stopping short clips for Reels, TikTok, Shorts and LinkedIn. Includes 8–15 vertical clips per source, captions and motion text burned in, hook-first editing for retention, platform-specific aspect ratios.
+
+**Podcast → Blog & Show Notes**: Every episode becomes a fully edited, SEO-structured blog post plus timestamped show notes for your website. Includes a 1,200–2,000 word article, on-page SEO optimization, pull quotes and key takeaways, timestamped show notes.
+
+**Content → Newsletter**: We distill your best content into a punchy, platform-native email your list actually opens. Includes weekly or bi-weekly cadence, subject line A/B options, CTA aligned to your funnel, ESP-ready HTML.
+
+**Blog → Carousels & Graphics**: Written content reformatted into swipeable LinkedIn and Instagram carousels, quote cards and stat graphics. Includes 5–10 slide carousels, on-brand templated design, quote and stat graphic packs, source files included.
+
+**Webinar → Mini Course**: Recorded webinars restructured into a modular email or LMS mini-course that keeps generating leads. Includes 3–5 module breakdown, lesson summaries and worksheets, email drip sequence, optional LMS packaging.
+
+**AI & Search Visibility**: We structure repurposed content so it is legible to AI answer engines and search crawlers, not just humans. Includes schema and metadata cleanup, answer-first content structure, citation-friendly formatting, GEO/AI-crawler audit.
+
+#### Engagement models
+
+- Done-for-you retainer: Hand off a source asset each month; we run the full repurposing pipeline and deliver a ready-to-post batch.
+- Single project: One webinar, one podcast season, one flagship blog — repurposed as a standalone project with a fixed scope.
+- Embedded team support: Our editors plug into your existing content calendar and Slack, working as an extension of your in-house team.
+
+---
+
+## About — https://test-repurpose.vercel.app/about
+
+### We're the production team behind content that never gets used just once.
+
+Reloop Media is a content repurposing agency: we take the podcast episode, webinar recording, or blog post you already made and turn it into a full week of platform-native assets.
+
+#### What we actually do
+
+Most content teams create one flagship piece — a podcast episode, a webinar, a deeply researched blog post — and then move straight to the next one. The clips, carousels, newsletters and blog posts that could have come from that single piece never get made, because reshaping content for every platform is slow, specialized work that eats a full production team's time.
+
+Reloop Media exists to close that gap. You send us the source asset. Our editors, designers and strategists turn it into everything downstream: short-form video for TikTok, Reels and Shorts, a long-form blog post structured for search and AI answer engines, a newsletter draft, LinkedIn carousels, and quote graphics — typically delivered within 9 business days.
+
+We're not a tool you log into and operate yourself, and we're not a freelancer marketplace. We're a dedicated production team that learns your brand voice, your audience, and your goals, and gets faster and sharper with every batch.
+
+Company facts: Founded 2021. 14 people on the team. 38 active brand retainers. Remote-first, distributed across 6 countries.
+
+#### What we believe
+
+- Create once, publish everywhere: We believe the bottleneck for most brands isn't ideas — it's the manual work of reshaping one idea for ten different formats.
+- Editors first, tools second: Software can chop a video into clips. It can't tell you which 40 seconds actually made someone stop scrolling. Every asset we produce is shaped by an editor who understands story and hooks.
+- Built for AI-era discovery: Search and discovery no longer happen only through a feed — they happen through AI answer engines too. We structure repurposed content so it performs in both worlds.
+- Speed without sloppiness: A 9-day average turnaround only matters if the output is good enough to publish without a second pass. We optimize for both.
+
+#### Our story
+
+- 2021: Founded as a two-person podcast editing shop. Started by cutting audio for three indie podcasts, all repurposing work done manually in spare evenings.
+- 2022: First retainer clients, first playbook. Formalized a repeatable repurposing system after a B2B SaaS client's webinar-to-content pipeline tripled their LinkedIn reach.
+- 2023: Built out a full production team. Hired dedicated video editors, a copywriter, and a designer; expanded beyond podcasts into webinars and long-form blogs.
+- 2024: Added AI & search visibility as a core service. Clients began asking whether their content was visible to AI answer engines, not just social feeds — we built that into every deliverable.
+- 2025: 38 active brand retainers. Grew into a distributed team spanning editing, design, copy and strategy, serving SaaS, creator, and B2B service brands.
+
+#### Leadership
+
+- Maya Okonkwo, Founder & Creative Director: Ex-video producer for two mid-size media companies. Sets the editorial bar for every clip and carousel that ships.
+- Diego Fernandez, Head of Production: Runs the day-to-day editing pipeline and QA process across the video and design team.
+- Priya Raman, Content Strategist: Builds the repurposing plan for every new client, mapping source content to the platforms worth the effort.
+- Tom Halvorsen, SEO & AI Visibility Lead: Focuses on making repurposed long-form content legible to both search engines and AI answer engines.
+
+---
+
+## Case Studies — https://test-repurpose.vercel.app/case-studies
+
+### What repurposing actually moves for our clients.
+
+**Ledgerly (fintech SaaS, B2B SaaS)**: Challenge — a weekly founder podcast with strong episodes but almost no distribution beyond the podcast app itself. Approach — turned each episode into 10 short clips, a blog post, and a LinkedIn carousel highlighting one key insight. Results — 312% increase in LinkedIn impressions in 90 days, 4,800 new email subscribers from repurposed blog content, 19 inbound demo requests attributed to short-form clips.
+
+**Alma Fitness Coaching (Creator/Coaching)**: Challenge — one long-form YouTube video per week, but no time to cut it down for Instagram or TikTok. Approach — weekly batch of 12 vertical clips, an audiogram series, and a monthly recap newsletter. Results — 2.1x follower growth across Instagram and TikTok in 6 months, 58% of new coaching clients cited short-form clips as first touchpoint, freed up 6+ hours/week previously spent on manual editing.
+
+**Northwind Legal Consulting (B2B Services)**: Challenge — deeply researched blog posts with strong SEO but almost zero visibility in AI answer engines. Approach — restructured existing articles for answer-first formatting, added schema markup, and built a supporting FAQ layer. Results — cited by AI search assistants for 14 target queries within 60 days, 46% increase in organic search traffic to updated articles, newsletter open rate up from 22% to 31%.
+
+**Basincamp Outdoor Gear (E-commerce)**: Challenge — a quarterly webinar series with good attendance live, but the recordings were never used again. Approach — converted each webinar into a 4-part email mini-course plus a highlight reel for paid social retargeting. Results — 3.4x return on ad spend for retargeting campaigns using highlight reels, 890 mini-course completions across two webinar cycles, webinar content now the top acquisition channel for the email list.
+
+---
+
+## Pricing — https://test-repurpose.vercel.app/pricing
+
+### Plans built around how much content you already create.
+
+Every plan includes editing, design, and strategy — no add-on fees for the basics.
+
+**Starter — $1,900/month**: For creators and small teams testing repurposing for the first time. 1 source asset per month, 8 short-form video clips, 1 SEO-structured blog post, 1 LinkedIn/Instagram carousel, 9 business day turnaround.
+
+**Growth — $4,200/month** (most popular): For teams publishing weekly who want a full repurposing pipeline. 2–4 source assets per month, 15+ short-form video clips, 2 SEO-structured blog posts, weekly newsletter draft, 3 carousels plus quote/stat graphics, AI and search visibility formatting, 7 business day turnaround, dedicated Slack channel.
+
+**Scale — Custom pricing**: For brands with multiple shows, hosts, or content lines to manage. Unlimited source assets, full video/design/copy team assigned, multi-brand/multi-host support, custom reporting and analytics, priority 5 business day turnaround, quarterly strategy reviews.
+
+#### Pricing FAQ
+
+- What counts as a source asset? Any single piece of long-form content you already produce — a podcast episode, a webinar recording, or a long-form blog post.
+- Do you need access to our brand assets? Yes — during onboarding we collect your brand guide, fonts, colors, and templates.
+- Can we mix and match formats? Yes, Growth and Scale plans let you allocate monthly output across clips, carousels, blog posts and newsletters.
+- Is there a contract or can we cancel anytime? Month-to-month with a 2-batch minimum, cancel anytime after with 30 days notice.
+- Do you handle publishing/scheduling too? By default we deliver ready-to-post files; Scale plans can include direct scheduling on request.
+
+---
+
+## Blog — https://test-repurpose.vercel.app/blog
+
+### Notes on repurposing, distribution, and AI-era content.
+
+- Why one blog post should become five different assets (Strategy) — Most teams treat a blog post as a finish line. The highest-leverage teams treat it as raw material.
+- The 40-second rule for short-form video hooks (Video) — After cutting thousands of clips, we found the first three seconds decide almost everything.
+- How AI answer engines actually read your content (AI & Search) — Structuring content for AI visibility is not the same as classic SEO.
+- Podcast to newsletter: a template that keeps subscribers opening (Email) — A breakdown of the newsletter structure we reuse across every podcast client.
+- What we look for before taking on a new repurposing client (Behind the Scenes) — Not every piece of content is worth repurposing.
+- Carousels vs. single-image posts: what the data actually shows (Social) — We pulled engagement data across 40+ client accounts to settle the debate on our own team.
+
+---
+
+## Contact — https://test-repurpose.vercel.app/contact
+
+### Let's map your repurposing plan.
+
+Tell us what you already create. We'll reply within one business day with next steps.
+
+Email: hello@reloopmedia.com
+Phone: +1 (415) 555-0142
+Office: Remote-first team, HQ in Austin, TX
+Response time: We reply to every inquiry within one business day.
